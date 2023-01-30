@@ -1,4 +1,6 @@
-## Fork
+# AUTO-FILTER-Bot
 
-Original repo - You already know 🤣🤣
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
 
