@@ -20,7 +20,7 @@ class Bot(Client):
         app = web.AppRunner(await web_server())
         await app.setup()
         bind_address = "0.0.0.0"
-        port = "8000"
+        port = "8080"
         await web.TCPSite(app, bind_address, port).start()   
         print(f"{me.first_name} | @{me.username} Started...⚡️")
        
