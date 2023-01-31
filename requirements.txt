@@ -12,8 +12,6 @@ feedparser
 youtube_dl
 youtube_search_python
 youtube_search
-TgCrypto
-motor
 aiofiles
 dnspython
 psutil
